@@ -21,4 +21,7 @@
 - [поездки на такси](docs/TRIPS.md);
 - [праздничные дни](docs/HOLIDAYS.md)
 - [географические координаты](docs/OSRM.md);
-- [погодные условия](docs/WEATHER.md);
+- [погодные условия](docs/WEATHER.md).
+
+### Ссылка на kaggle:
+- [NYC Taxi Trip](https://www.kaggle.com/code/alexlegion/notebook13b2c94855)
