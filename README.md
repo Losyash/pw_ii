@@ -26,5 +26,5 @@
 ### Ссылка на Google Colab:
 - [NYC Taxi Trips](https://drive.google.com/file/d/19UPSU6I84EsQXSwPlPjujlCSxtkq7PZ0/view?usp=sharing).
 
-### Ссылка на kaggle:
+### Ссылка на Kaggle:
 - [NYC Taxi Trips](https://www.kaggle.com/code/alexlegion/nyc-taxi-trip-duration).
