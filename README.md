@@ -24,7 +24,7 @@
 - [погодные условия](docs/WEATHER.md).
 
 ### Ссылка на Google Colab:
-- [NYC Taxi Trips](https://drive.google.com/file/d/19UPSU6I84EsQXSwPlPjujlCSxtkq7PZ0/view?usp=sharing).
+- [NYC Taxi Trips](https://colab.research.google.com/drive/1Djsh7cCCUfUQpbRBzFQ5hH0ECttzIcVJ?usp=sharing).
 
 ### Ссылка на Kaggle:
 - [NYC Taxi Trips](https://www.kaggle.com/code/alexlegion/nyc-taxi-trip-duration).
